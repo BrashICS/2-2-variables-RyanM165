@@ -13,3 +13,12 @@
 let it_is_christmas = false
 let teaching_partner = "Mr. Squirrel"
 let number_of_students = 27
+let age = 17;
+let length = 5
+let width = 10
+let area= length * width
+console.log("the area is;", length * width)
+
+let first_name = "Santa";
+let last_name = "clause";
+console.log("i still believe in", first_name, last_name)
